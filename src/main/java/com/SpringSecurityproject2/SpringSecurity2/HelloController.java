@@ -10,7 +10,7 @@ public class HelloController {
 
         public String printHello()
         {
-            return "HelloWorld Monish";
+            return "Hello Monish";
         }
     }
 
